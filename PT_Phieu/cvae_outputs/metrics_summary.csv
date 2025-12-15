@@ -1,0 +1,2 @@
+macro_f1,balanced_accuracy,train_size,aug_train_size,val_size
+0.3436171598160371,0.34548460798460795,607,742,152
